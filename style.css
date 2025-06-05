@@ -1,0 +1,106 @@
+span{
+    color: blueviolet;
+    margin: left 50px; 
+}
+.a{
+    color: brown;
+}.header {
+    margin-top: 20px;
+    border-radius: 5px;
+margin-bottom: 30px;
+    height: 45px;
+position: sticky;
+top: 0;
+padding-top: 5px;
+background-color: white;
+}
+
+.logo {
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 400px;
+    margin-left: 40px;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkcyan;
+}
+
+span {
+    font-family: cursive;
+}
+
+.nav{
+    margin-left: 800px;
+}
+.nav li {
+    list-style-type: none;
+    float: left;
+    margin-top: 3px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding-top: 2px;
+    font-size: 20px;
+    padding-bottom: 3px;
+
+
+}
+
+a:hover {
+    border-bottom: 3px solid aquamarine;
+    color: red;
+}
+
+i {
+    margin-top: 15px;
+}
+
+.second-line {
+
+    padding-left: 50px;
+    margin-left: 17%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+    position: relative;
+
+
+}
+.cursive-text{
+    font-family: Papyrus;
+    font-size: 40px;
+    color: brown;
+}
+.recipe-item img{
+    width: 50%;
+    height: 550px;
+    background-position: center;
+    background-size: contain;
+}
+img{
+    margin-left: 370px;
+    border-radius: 20px;
+box-shadow: 2px 5px 20px gray;
+}
+
+.recipe-details{
+    margin-left: 200px;
+}
+.recipe-details li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.recipe-details ul,
+.recipe-details ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
